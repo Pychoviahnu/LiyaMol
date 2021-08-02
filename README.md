@@ -25,7 +25,7 @@ instagram
 
 
   <p align="center">
-  <a href="httsp://github.com/saidalisaid2/LiyaMol">
+  <a href=https://github.com/Pychoviahnu/LiyaMol>
     <img src="https://img.shields.io/github/repo-size/farhan-dqz/JulieMwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/saidalisaid2/followers"><img title="Followers" src="https://img.shields.io/github/followers/saidalisaid2?color=blue&style=flat-square"></a>
